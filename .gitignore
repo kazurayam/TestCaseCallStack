@@ -1,0 +1,13 @@
+# emacs
+*~
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# Katalon Studio
+bin/
+Libs/
+console.properties
+settings/
